@@ -1,0 +1,77 @@
+body {
+    font-family: 'Roboto', 'Raleway',  sans-serif;
+    color: #2E2F42;
+    background-color: #FFFFFF;
+}
+
+a {
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #404BBF;
+}
+
+nav a {
+    font-weight: 500;
+}
+
+ul {
+    list-style: none;
+}
+
+.logo span {
+    color: #4D5AE5;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+}
+
+.main-section {
+    background-color: #2E2F42;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+.main-section button {
+    cursor: pointer;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+.main-section button:hover {
+    background-color: #404BBF;
+}
+
+h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+p {
+    color: #434455;
+}
+
+.our-team {
+    background-color: #F4F4FD;
+}
+
+footer {
+    background-color: #2E2F42;
+}
+
+footer p {
+    color: #F4F4FD;
+}
